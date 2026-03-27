@@ -1,3 +1,6 @@
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/651d9143-41d0-48e0-b66f-a3107fe5f871" />
+
+
 # Charity Voting Smart Contract (Soroban - Stellar)
 
 ## 📌 Project Description
@@ -60,3 +63,5 @@ https://stellar.expert/explorer/public/contract/XXXXXXXX
 Built as a beginner Soroban smart contract project for learning and innovation.
 
 ---
+
+
