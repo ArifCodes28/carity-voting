@@ -65,4 +65,5 @@ Built as a beginner Soroban smart contract project for learning and innovation.
 
 ---
 
+contract address: CCP257E2KBOSIZ7NLHDUXSNOQK7AYVNWWH4EWJO2H43DFQQ6FRZY5UST
 
