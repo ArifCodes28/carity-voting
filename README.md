@@ -1,5 +1,6 @@
 <img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/651d9143-41d0-48e0-b66f-a3107fe5f871" />
 
+https://stellar.expert/explorer/testnet/contract/CCP257E2KBOSIZ7NLHDUXSNOQK7AYVNWWH4EWJO2H43DFQQ6FRZY5UST
 
 # Charity Voting Smart Contract (Soroban - Stellar)
 
